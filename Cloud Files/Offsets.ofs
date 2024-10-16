@@ -1,4 +1,4 @@
-//2024-10-16 16:53
+//2024-10-16 17:36
 
 //dwLocalPlayerController
 0x1A1A690
@@ -10,6 +10,10 @@
 0x1A36960
 //dwViewMatrix
 0x1A2CAD0
+//dwWeaponC4
+0x19CDC40
+//dwPlantedC4
+0x1A32040
 //m_hPlayerPawn
 0x80C
 //m_iTeamNum
