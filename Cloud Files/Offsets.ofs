@@ -10,10 +10,6 @@
 0x1A36960
 //dwViewMatrix
 0x1A2CAD0
-//dwWeaponC4
-0x19CDC40
-//dwPlantedC4
-0x1A32040
 //m_hPlayerPawn
 0x80C
 //m_iTeamNum
@@ -58,3 +54,7 @@
 0x1352
 //m_angEyeAngles
 0x1438
+//dwWeaponC4
+0x19CDC40
+//dwPlantedC4
+0x1A32040
