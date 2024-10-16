@@ -1,4 +1,4 @@
-//2024-10-16 17:36
+//2024-10-16 18:01
 
 //dwLocalPlayerController
 0x1A1A690
@@ -58,3 +58,15 @@
 0x19CDC40
 //dwPlantedC4
 0x1A32040
+//dwWeaponC4
+0x19CDC40
+//dwPlantedC4
+0x1A32040
+//m_nBombSite
+0xF94
+//m_bBeingDefused
+0xFCC
+//m_flC4Blow
+0xFC0
+//m_flDefuseLength
+0xFDC
